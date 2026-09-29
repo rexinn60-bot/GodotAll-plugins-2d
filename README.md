@@ -1,0 +1,1 @@
+# GodotAll-plugins-2d
